@@ -5,6 +5,6 @@
 - [ ] Raspberry päivitetty
 - [ ] Raspberry liitetty verkkoon
 - [ ] Salasana vaihdettu
-- [ ] Github-repo
+- [X] Github-repo
 - [ ] Raspbian image kirjoitettu
 - [ ] Etäkäyttö
