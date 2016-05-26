@@ -1,5 +1,7 @@
 # Demo 1
 
+## Tehtävät
+
 - [X] Laitteet kuitattu
 - [ ] Raspberryn konfigurointi
 - [ ] Raspberry päivitetty
@@ -8,3 +10,7 @@
 - [X] Github-repo
 - [X] Raspbian image kirjoitettu
 - [X] Etäkäyttö
+
+## Toimenpiteitä
+
+
