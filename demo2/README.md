@@ -3,7 +3,7 @@
 ## Tehtävät
 
 - Ledi
-  - [ ] Liitännät
+  - [X] Liitännät
   - [ ] Toimiva koodi
 - Painikkeet ja liikkeentunnistus
   - [ ] Painikkeen tilan saa näyttöön
