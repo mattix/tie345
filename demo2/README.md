@@ -4,7 +4,7 @@
 
 - Ledi
   - [X] Liitännät
-  - [ ] Toimiva koodi
+  - [X] Toimiva koodi
 - Painikkeet ja liikkeentunnistus
   - [ ] Painikkeen tilan saa näyttöön
   - [ ] Liikkeentunnistimella ledi koodista
