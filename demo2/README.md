@@ -5,6 +5,7 @@
 - Ledi
   - [X] Liitännät
   - [X] Toimiva koodi
+  - [ ] Oma alasvetovastus
 - Painikkeet ja liikkeentunnistus
   - [ ] Painikkeen tilan saa näyttöön
   - [ ] Liikkeentunnistimella ledi koodista
