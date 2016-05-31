@@ -1,8 +1,8 @@
 import RPi.GPIO as GPIO
 import time
 
-# http://razzpisampler.oreilly.com/ch07.html
-# When button is presset, GPIO.input returns False
+# When button is presset, GPIO.input returns False.
+# Got this info from: http://razzpisampler.oreilly.com/ch07.html
 
 LED = 4
 BUTTON = 19
