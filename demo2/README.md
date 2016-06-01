@@ -7,8 +7,8 @@
   - [X] Toimiva koodi
   - [ ] Oma alasvetovastus
 - Painikkeet ja liikkeentunnistus
-  - [ ] Painikkeen tilan saa näyttöön
-  - [ ] Liikkeentunnistimella ledi koodista
+  - [ ] Painike sytyttää ledin
+  - [ ] Liikkeentunnistimen tilan saa näyttöön
 - Liikennevalot
   - [ ] Liitännät
   - [ ] Toimiva koodaus
