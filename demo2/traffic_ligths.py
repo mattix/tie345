@@ -32,7 +32,10 @@ def switch_to_car_red():
   GPIO.output(LED_PEDESTRIAN_GREEN, True)
 
 GPIO.output(LED_CAR_GREEN, True)
+GPIO.output(LED_CAR_YELLOW, False)
+GPIO.output(LED_CAR_RED, False)
 GPIO.output(LED_PEDESTRIAN_RED, True)
+GPIO.output(LED_PEDESTRIAN_GREEN, False)
 
 try:
   while True:
