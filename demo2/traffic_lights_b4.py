@@ -13,6 +13,7 @@ BUTTON = 4
 PIR = 23
 
 LIGHT_DELAY = 1
+WAIT_TRAFFIC = 4
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(LED_CAR_RED, GPIO.OUT)
@@ -27,6 +28,8 @@ GPIO.setup(PIR, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 def switch_to_car_red():
   GPIO.output(LED_PEDESTRIAN_INDICATOR, True)
+  if GPIO.input(PIR):
+    time.sleep(WAIT_TRAFFIC)
   GPIO.output(LED_CAR_GREEN, False)
   GPIO.output(LED_CAR_YELLOW, True)
   time.sleep(LIGHT_DELAY)
