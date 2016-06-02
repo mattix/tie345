@@ -5,7 +5,6 @@
 - Ledi
   - [X] Liitännät
   - [X] Toimiva koodi
-  - [ ] Oma alasvetovastus
 - Painikkeet ja liikkeentunnistus
   - [X] Painike sytyttää ledin
   - [X] Liikkeentunnistimen tilan saa näyttöön
@@ -14,6 +13,7 @@
   - [X] Toimiva koodaus
 - Bonus
   - [X] Merkkivalo
+  - [ ] Painikkeelle omma alasvetovastus
   - [X] Liikkeentunnistavat valot
 
 ## Huomioita
