@@ -1,0 +1,9 @@
+import RPi.GPIO as GPIO
+import time
+
+CAR_RED = 5
+CAR_YELLOW = 6
+CAR_GREEN = 13
+
+PEDESTRIAN_RED = 19
+PEDESTRIAN_GREEN = 26
