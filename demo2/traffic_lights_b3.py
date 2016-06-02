@@ -37,6 +37,7 @@ GPIO.output(LED_CAR_YELLOW, False)
 GPIO.output(LED_CAR_RED, False)
 GPIO.output(LED_PEDESTRIAN_RED, True)
 GPIO.output(LED_PEDESTRIAN_GREEN, False)
+GPIO.output(LED_PEDESTRIAN_INDICATOR, False)
 
 try:
   while True:
