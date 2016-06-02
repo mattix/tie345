@@ -31,3 +31,5 @@ def switch_to_car_red():
   GPIO.output(LED_PEDESTRIAN_RED, False)
   GPIO.output(LED_PEDESTRIAN_GREEN, True)
 
+GPIO.output(LED_CAR_GREEN, True)
+GPIO.output(LED_PEDESTRIAN_RED, True)
