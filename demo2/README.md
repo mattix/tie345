@@ -13,8 +13,8 @@
   - [X] Liitännät
   - [X] Toimiva koodaus
 - Bonus
-  - [ ] Merkkivalo
-  - [ ] Liikkeentunnistavat valot
+  - [X] Merkkivalo
+  - [X] Liikkeentunnistavat valot
 
 ## Huomioita
 
