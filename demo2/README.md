@@ -13,7 +13,7 @@
   - [X] Toimiva koodaus
 - Bonus
   - [X] Merkkivalo
-  - [ ] Painikkeelle omma alasvetovastus
+  - [X] Painikkeelle omma alasvetovastus
   - [X] Liikkeentunnistavat valot
 
 ## Huomioita
