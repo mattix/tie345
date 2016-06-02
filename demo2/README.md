@@ -18,6 +18,10 @@
 
 ## Huomioita
 
+Bonus-tehtävien suoritukset löytyvät omista tiedostoistaan `*_b?.py/fzz`.
+Tämän nyt olisi voinut tehdä samaankin tiedostoon ja versiohistoriasta
+tarkistaa muutokset.
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
