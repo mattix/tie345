@@ -22,6 +22,9 @@ Bonus-tehtävien suoritukset löytyvät omista tiedostoistaan `*_b?.py/fzz`.
 Tämän nyt olisi voinut tehdä samaankin tiedostoon ja versiohistoriasta
 tarkistaa muutokset.
 
+Commitit ja koodi on englanniksi, koska olen vuosien aikana tottunut
+niin toimimaan. Tuskin haitannee.
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
