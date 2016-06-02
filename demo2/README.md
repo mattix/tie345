@@ -10,8 +10,8 @@
   - [X] Painike sytyttää ledin
   - [X] Liikkeentunnistimen tilan saa näyttöön
 - Liikennevalot
-  - [ ] Liitännät
-  - [ ] Toimiva koodaus
+  - [X] Liitännät
+  - [X] Toimiva koodaus
 - Bonus
   - [ ] Merkkivalo
   - [ ] Liikkeentunnistavat valot
