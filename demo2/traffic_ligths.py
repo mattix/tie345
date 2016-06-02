@@ -36,9 +36,9 @@ GPIO.output(LED_PEDESTRIAN_RED, True)
 
 try:
   for i in range(0, 100):
-  if not GPIO.input(BUTTON):
-    switch_to_car_red()
-  time.sleep(0.1)
+    if not GPIO.input(BUTTON):
+      switch_to_car_red()
+    time.sleep(0.1)
 except Exception, e:
   raise
 finally:
