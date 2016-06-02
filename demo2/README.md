@@ -22,6 +22,10 @@ Bonus-tehtävien suoritukset löytyvät omista tiedostoistaan `*_b?.py/fzz`.
 Tämän nyt olisi voinut tehdä samaankin tiedostoon ja versiohistoriasta
 tarkistaa muutokset.
 
+Aluksi käytin epähuomiossa ylösvetovastusta ja napin kytkemista maihin,
+mutta viimeisessä (https://github.com/mattix/tiea345/blob/master/demo2/traffic_lights_b4.py)
+toteutuksessa on käytetty alasvetovastusta ja nappi kytketty jännitteeseen.
+
 Commitit ja koodi on englanniksi, koska olen vuosien aikana tottunut
 niin toimimaan. Tuskin haitannee.
 
