@@ -33,3 +33,8 @@ def switch_to_car_red():
 
 GPIO.output(LED_CAR_GREEN, True)
 GPIO.output(LED_PEDESTRIAN_RED, True)
+
+for i in range(0, 100):
+  if not GPIO.input(BUTTON):
+    switch_to_car_red()
+  time.sleep(0.1)
