@@ -4,7 +4,7 @@ import time
 PIR = 4
 
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(PIR, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+GPIO.setup(PIR, GPIO.IN)
 
 moving = False
 
