@@ -4,7 +4,7 @@
 
 - Lämpötila- ja kosteussensorin tehtävät
   - [X] Sensori toimintakuntoon ja dataa ruutuun
-  - [ ] Sensorin dataa Google Sheetsiin
+  - [X] Sensorin dataa Google Sheetsiin
 - Kameran tehtävät
   - [ ] Kamera käyttökuntoon
   - [ ] Raspin kameran kuvaa ja videoa repoon
