@@ -26,4 +26,4 @@ while True:
   if humidity is not None and temperature is not None:
     add_line([datetime.now().isoformat(), temperature, humidity])
     print('Temp={0:0.1f}*C  Humidity={1:0.1f}%'.format(temperature, humidity))
-  time.sleep(1)
+  time.sleep(60)
