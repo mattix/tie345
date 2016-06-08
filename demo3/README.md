@@ -14,6 +14,8 @@
 
 ## Huomioita
 
+Pip asennus: https://pip.pypa.io/en/stable/installing/
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
