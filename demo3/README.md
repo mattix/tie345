@@ -7,7 +7,7 @@
   - [X] Sensorin dataa Google Sheetsiin
 - Kameran tehtävät
   - [X] Kamera käyttökuntoon
-  - [ ] Raspin kameran kuvaa ja videoa repoon
+  - [X] Raspin kameran kuvaa ja videoa repoon
   - [ ] Liikkeentunnistava kamera.
   - [ ] Aseta kamera ottamaan kuva aina tasatunnein
   - [ ] Toteuta web-palvelin, josta voi hakea uusimman tallennetun kuvan
