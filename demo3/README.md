@@ -6,7 +6,7 @@
   - [X] Sensori toimintakuntoon ja dataa ruutuun
   - [X] Sensorin dataa Google Sheetsiin
 - Kameran tehtävät
-  - [ ] Kamera käyttökuntoon
+  - [X] Kamera käyttökuntoon
   - [ ] Raspin kameran kuvaa ja videoa repoon
   - [ ] Liikkeentunnistava kamera.
   - [ ] Aseta kamera ottamaan kuva aina tasatunnein
