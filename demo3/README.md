@@ -16,6 +16,9 @@
 
 Pip asennus: https://pip.pypa.io/en/stable/installing/
 
+Kuvan tallennus: sudo raspistill -o test2.jpg``
+Videon tallennus: `sudo raspivid -b 10000000 -o test.h264 -t 3000`
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
