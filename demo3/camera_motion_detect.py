@@ -6,8 +6,8 @@ import io
 # http://picamera.readthedocs.io/en/release-1.10/recipes1.html
 # http://picamera.readthedocs.io/en/release-1.10/api_array.html
 
-imageWidth = 1280
-imageHeight = 720
+imageWidth = 640
+imageHeight = 360
 
 threshold = 10
 lastImageArray = None
