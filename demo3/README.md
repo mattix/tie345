@@ -8,7 +8,7 @@
 - Kameran tehtävät
   - [X] Kamera käyttökuntoon
   - [X] Raspin kameran kuvaa ja videoa repoon
-  - [ ] Liikkeentunnistava kamera.
+  - [X] Liikkeentunnistava kamera.
   - [ ] Aseta kamera ottamaan kuva aina tasatunnein
   - [ ] Toteuta web-palvelin, josta voi hakea uusimman tallennetun kuvan
 
