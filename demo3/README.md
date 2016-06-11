@@ -24,7 +24,7 @@ Flask asennus: `sudo apt-get install python3-flask`
 ### Bonus 5
 rootin crontab:
 ```
-0 * * * * raspistill -o /home/matti/demo3/static/latest.jpg
+0 * * * * raspistill -o /home/matti/demo3/webserver/static/latest.jpg
 ```
 
 ## Oppimispäiväkirja
