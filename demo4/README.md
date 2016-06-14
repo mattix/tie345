@@ -4,8 +4,6 @@
 
 - [X] Motion asennettu 1p
 - [X] Motion tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto. 1p
-- [ ] Motion asennettu 1p
-- [ ] Motion tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto. 1p
 - [ ] Motion tallentaa 2 kuvaa ennen liikettä ja 5 sekunnin ajan (?) liikkeen jälkeen. 1p
 - [ ] Kun Motion havaitsee liikettä, kuvataan 10 sekunnin video. 2p
 - [ ] OpenCV asennettu onnistuneesti 2p
