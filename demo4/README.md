@@ -2,7 +2,7 @@
 
 ## Tehtävät
 
-- [ ] Motion asennettu 1p
+- [X] Motion asennettu 1p
 - [ ] Motion tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto. 1p
 - [ ] Motion asennettu 1p
 - [ ] Motion tallentaa kuvat ja lokin eri tiedostoon kuin oletustiedosto. 1p
