@@ -10,7 +10,7 @@
   - [X] Raspin kameran kuvaa ja videoa repoon
   - [X] Liikkeentunnistava kamera.
   - [X] Aseta kamera ottamaan kuva aina tasatunnein
-  - [ ] Toteuta web-palvelin, josta voi hakea uusimman tallennetun kuvan
+  - [X] Toteuta web-palvelin, josta voi hakea uusimman tallennetun kuvan
 
 ## Huomioita
 
