@@ -30,7 +30,10 @@ rootin crontab:
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
+Tässä demossa tuli paljon uutta. Ainoastaan sensorien käyttö, ja sekin vain Arduinon kanssa, oli ennestään tuttua.
 
 ### Mikä oli hankalaa tai epäselvää?
+Hankaluuksia ei juuri ollut. Sopivaa haastetta oli tehtävissä mutta hyvät ohjeistukset auttoivat.
 
 ### Kauanko käytit aikaa?
+Käytin aikaa noin 10h.
