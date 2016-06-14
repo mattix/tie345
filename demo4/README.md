@@ -20,6 +20,16 @@ Lisätty `bcm2835-v4l2` tiedostoon `/etc/modules` (parempi, kuin `/etc/rc.local`
 
 Motionia ajettava sudona tai lisättävä käyttäjä video-ryhmään. Jälkimmäistä käytin itse.
 
+En ole varma, tarkoitettiinko tehtävässä "kuvataan 10 sekunnin video" tätä asetusta:
+
+```
+# Maximum length in seconds of a movie
+# When value is exceeded a new movie file is created. (Default: 0 = infinite)
+max_movie_time 10
+```
+
+Sen aktivoin, vaikka tuohan tarkoittaa sitä, että uusi videotiedosto luodaan, kun 10 sekuntia tulee täyteen.
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
