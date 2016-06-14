@@ -16,7 +16,11 @@
 
 ## Huomioita
 
+### Motion
+
 Lisätty `bcm2835-v4l2` tiedostoon `/etc/modules` (parempi, kuin `/etc/rc.local`)
+
+Motionia ajettava sudona tai lisättävä käyttäjä video-ryhmään. Jälkimmäistä käytin itse.
 
 ## Oppimispäiväkirja
 
