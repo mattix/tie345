@@ -16,6 +16,8 @@
 
 ## Huomioita
 
+Lisätty `bcm2835-v4l2` tiedostoon `/etc/modules` (parempi, kuin `/etc/rc.local`)
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
