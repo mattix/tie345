@@ -30,6 +30,15 @@ max_movie_time 10
 
 Sen aktivoin, vaikka tuohan tarkoittaa sitä, että uusi videotiedosto luodaan, kun 10 sekuntia tulee täyteen.
 
+### OpenCV
+Linkkejä:
+- http://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
+- http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_orb/py_orb.html
+
+Testikuvat ovat CC-lisenssillä:
+- https://www.flickr.com/photos/draganbrankovic/23754539739
+- https://www.flickr.com/photos/draganbrankovic/23243020106
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
