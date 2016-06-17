@@ -27,6 +27,12 @@ rootin crontab:
 0 * * * * raspistill -o /home/matti/demo3/webserver/static/latest.jpg
 ```
 
+Uudelleenkäynnistys varmistettu (screeniin):
+/etc/rc.local:
+```
+screen -dmS latest_image_server sh -c '/home/matti/demo4/start_server.bash; exec bash'
+```
+
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
