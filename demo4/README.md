@@ -9,7 +9,7 @@
 - [X] OpenCV asennettu onnistuneesti 2p
 - [X] Tee kahden kuvan piirteiden vertailu. Käytä ORB-tunnistinta 2p
 - [X] Hanki kuva, jossa on kasvot. Löydä kasvot Haar-Cascadella. Python/samples-kansiosta löytyy valmiiksi ‘koulutettu’ tunnistin 3p
-- [ ] Bonus: Kun Motion havaitsee liikettä kuvattavan alueen keskellä, pikamera kuvaa 15 sekunnin videon tapahtuneesta 1p
+- [X] Bonus: Kun Motion havaitsee liikettä kuvattavan alueen keskellä, pikamera kuvaa 15 sekunnin videon tapahtuneesta 1p
 - [X] Bonus: Ota kuva kasvoista picameralla ja tunnista kasvot siitä 2p
 
 ## Huomioita
