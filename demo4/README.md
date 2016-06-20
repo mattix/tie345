@@ -46,7 +46,10 @@ Torvaldsin kuva cc:
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
+Tässä demossa tuli taas paljon uutta. Kaikki paitsi OpenCV käytetyistä ohjelmista tai kirjastoista oli uusia minulle. OpenCV:stäkin tämä kuvan tunnistus oli uutta.
 
 ### Mikä oli hankalaa tai epäselvää?
+Ei sinänsä hankalaa eikä epäselvää. Ainoa askarruttanut tehtävänanto oli tuo "kuvataan 10 sekunnin video".
 
 ### Kauanko käytit aikaa?
+16h
