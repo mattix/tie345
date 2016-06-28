@@ -49,7 +49,7 @@ void switchToCarRed() {
 
 int main (void)
 {
-  if (wiringPiSetup() == -1)
+  if (wiringPiSetupGpio() == -1)
     return 1;
 
   signal(SIGINT, signalHandler);
