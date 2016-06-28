@@ -3,9 +3,12 @@
 ## Tehtävät
 
 - [X] Toimiva pir/led -yhdistelmä, 3 p
-- [ ] Toimivat liikennevalot, 5-7 p
+- [X] Toimivat liikennevalot, 5-7 p
 
 ## WiringPI
+
+http://wiringpi.com/pins/
+
 ### Asennus
 ```
 $ git clone git://git.drogon.net/wiringPi
@@ -28,4 +31,4 @@ Tässä demossa ei tullut muuta uutta, kuin käyttämäni Wiringpi-kirjasto.
 Ei hankaluuksia tai epäselvyyksiä. Selkeä tehtävänanto.
 
 ### Kauanko käytit aikaa?
-5h
+9h
