@@ -12,8 +12,8 @@ const int ledPedestrianIndicator = 22;
 const int pinButton = 4;
 const int pinPir = 23;
 
-const int lightDelay = 1;
-const int waitTraffic = 4;
+const int lightDelay = 1000;
+const int waitTraffic = 4000;
 
 int running = 1;
 int exitSignal = 0;
