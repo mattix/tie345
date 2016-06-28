@@ -2,7 +2,7 @@
 
 ## Tehtävät
 
-- [ ] Toimiva pir/led -yhdistelmä, 3 p
+- [X] Toimiva pir/led -yhdistelmä, 3 p
 - [ ] Toimivat liikennevalot, 5-7 p
 
 ## WiringPI
