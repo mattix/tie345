@@ -1,5 +1,4 @@
 #include <wiringPi.h>
-#include <stdio.h>
 #include <signal.h>
 
 const int pirPin = 4; /* BCM GPIO 23 */
