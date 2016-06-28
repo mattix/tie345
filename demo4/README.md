@@ -30,6 +30,9 @@ max_movie_time 10
 
 Sen aktivoin, vaikka tuohan tarkoittaa sitä, että uusi videotiedosto luodaan, kun 10 sekuntia tulee täyteen.
 
+## Päivitys:
+Motionin area_detect muutettu käyttämään mask-tiedostoa.
+
 ### OpenCV
 Linkkejä:
 - http://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
