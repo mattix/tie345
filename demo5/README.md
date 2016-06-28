@@ -22,7 +22,10 @@ make
 ## Oppimispäiväkirja
 
 ### Mikä oli uutta?
+Tässä demossa ei tullut muuta uutta, kuin käyttämäni Wiringpi-kirjasto.
 
 ### Mikä oli hankalaa tai epäselvää?
+Ei hankaluuksia tai epäselvyyksiä. Selkeä tehtävänanto.
 
 ### Kauanko käytit aikaa?
+5h
